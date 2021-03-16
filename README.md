@@ -10,4 +10,5 @@
   - Everything with Star Wars…
   - Lego :-)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=thomas-merz&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=thomas-merz&show_icons=true)  
+[GitMemory Stats](https://www.gitmemory.com/thomas-merz)
