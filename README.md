@@ -11,4 +11,7 @@
   - Lego :-)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=thomas-merz&show_icons=true)  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=thomas-merz&column=3&margin-w=10&margin-h=10)
+
 [GitMemory Stats](https://www.gitmemory.com/thomas-merz)
