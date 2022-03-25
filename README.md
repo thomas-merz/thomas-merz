@@ -18,7 +18,7 @@
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=thomas-merz&column=3&margin-w=10&margin-h=10)
   
-Have a look at my complete [GitMemory Stats](https://www.gitmemory.com/thomas-merz)
+Have a look at my [GitHubMemory](https://githubmemory.com/@thomas-merz)
   
 ---
   
