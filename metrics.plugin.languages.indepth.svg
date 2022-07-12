@@ -24,7 +24,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="407.24014336917566" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="407.24014336917566" y="0" width="29.07787552948843" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="436.31801889866404" y="0" width="23.68198110133594" height="8" fill="#E3F171"/>
+                    <rect mask="url(#languages-bar)" x="436.31801889866404" y="0" width="23.68198110133594" height="8" fill="#302B6D"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,9 +43,9 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#E3F171" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#302B6D" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Pascal
+                                Puppet
                             </div>
                             <small>
                                 <div>6 lines</div>
