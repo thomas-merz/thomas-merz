@@ -11,6 +11,10 @@
   - Lego :-)
   
 ---
+
+![](https://komarev.com/ghpvc/?username=thomas-merz)
+
+---
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=thomas-merz&show_icons=true)  
   
