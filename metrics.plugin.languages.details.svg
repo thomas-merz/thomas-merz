@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.532073389433" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="295.532073389433" y="0" width="111.81128431507794" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="407.34335770451094" y="0" width="46.13325975996689" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.5447647951442" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="295.5447647951442" y="0" width="111.78590150365568" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="407.3306662987998" y="0" width="46.14595116567802" height="8" fill="#cb171e"/>
                     <rect mask="url(#languages-bar)" x="453.47661746447784" y="0" width="6.52338253552214" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
@@ -48,7 +48,7 @@
                                 YAML
                             </div>
                             <small>
-                                <div>3.63 kB</div>
+                                <div>3.64 kB</div>
                                 <div>10.03%</div>
                             </small>
                         </div>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>8.81 kB</div>
-                                <div>24.31%</div>
+                                <div>24.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
