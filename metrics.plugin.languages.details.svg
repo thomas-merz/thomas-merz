@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.0417366869611" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="295.0417366869611" y="0" width="112.3926278960853" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="407.4343645830464" y="0" width="46.051957354197086" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="453.4863219372434" y="0" width="6.51367806275655" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.0391141472014" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="295.0391141472014" y="0" width="112.37714852357867" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="407.4162626707801" y="0" width="46.07095636844425" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="453.4872190392243" y="0" width="6.512780960775672" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,8 +48,8 @@
                                 YAML
                             </div>
                             <small>
-                                <div>3.63 kB</div>
-                                <div>10.01%</div>
+                                <div>3.64 kB</div>
+                                <div>10.02%</div>
                             </small>
                         </div>
                     </section>
