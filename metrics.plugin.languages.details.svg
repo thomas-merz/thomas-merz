@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.36363960050556" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="294.36363960050556" y="0" width="117.26228836944331" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="411.62592796994886" y="0" width="44.1647825390326" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="455.7907105089815" y="0" width="4.209289491018497" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.3449700033824" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="294.3449700033824" y="0" width="117.29086927883502" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="411.63583928221743" y="0" width="44.15502109554412" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="455.79086037776153" y="0" width="4.209139622238442" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>14.3 kB</div>
-                                <div>25.49%</div>
+                                <div>25.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
