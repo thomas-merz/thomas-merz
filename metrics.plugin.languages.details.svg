@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.36409172998947" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="289.36409172998947" y="0" width="132.66596244931338" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="422.0300541793028" y="0" width="36.35860564964051" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="458.38865982894333" y="0" width="1.6113401710566668" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.28038586523326" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="289.28038586523326" y="0" width="132.7537179723" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="422.0341038375333" y="0" width="36.35512681640745" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="458.38923065394073" y="0" width="1.6107693460592558" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>92.3 kB</div>
-                                <div>62.91%</div>
+                                <div>62.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>42.3 kB</div>
-                                <div>28.84%</div>
+                                <div>28.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
